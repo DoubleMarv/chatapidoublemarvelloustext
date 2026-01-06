@@ -61,3 +61,237 @@ Some clients come to me for a brand-new website, while others need help fixing, 
 Where are you based and who do you work with?
 
 I’m based in Ireland, but I work with clients both locally and internationally. Remote work has been a normal part of my workflow for many years, so location is rarely a limitation. 
+
+
+Skills, Platforms & Technologies
+What platforms do you work with?
+
+I work across a range of website platforms and tools, depending on what best suits the project. My strongest and most long-standing experience is with WordPress, but I also work with other modern site builders and CMS platforms.
+
+The main platforms I work with include:
+
+WordPress
+
+Webflow
+
+Wix
+
+Squarespace
+
+Some experience with Framer
+
+AI-assisted and prompt-based builders (where appropriate)
+
+I’m happy to advise on whether a platform is suitable for a specific project, or whether an existing site should be improved rather than rebuilt.
+
+How experienced are you with WordPress?
+
+WordPress is one of my core areas of expertise. I’ve been working with WordPress consistently since around 2012, across many different types of projects.
+
+My WordPress experience includes:
+
+Building custom themes from scratch
+
+Creating block-based themes using Gutenberg
+
+Advanced Custom Fields (ACF)
+
+Twig-based templating where appropriate
+
+Custom PHP functions, shortcodes, and plugins
+
+Working directly with the WordPress database when required
+
+WordPress Multisite setups
+
+Multilingual sites using WPML
+
+Performance, security, and long-term maintenance
+
+I’m very comfortable working on both new WordPress builds and existing, sometimes messy, legacy sites.
+
+Do you use WordPress page builders?
+
+Yes. While I often prefer custom themes for flexibility and performance, I regularly work with popular WordPress builders when they are already in place or when they make sense for a client.
+
+This includes experience with:
+
+Elementor
+
+Kadence
+
+WPBakery / Visual Composer
+
+Other common builder-based setups
+
+I can:
+
+Build new pages using these tools
+
+Improve or clean up existing layouts
+
+Fix broken builder content
+
+Advise when a builder is becoming a limitation
+
+Can you work with popular WordPress plugins?
+
+Yes. I’ve worked with a wide range of commonly used WordPress plugins, including:
+
+Contact form plugins (such as Contact Form 7 and similar)
+
+Migration and backup tools (e.g. All-in-One WP Migration)
+
+Security plugins (e.g. Wordfence)
+
+Caching and performance plugins
+
+If a plugin is causing issues, slowing a site down, or conflicting with other parts of the site, I can usually diagnose and resolve the problem.
+
+Do you fix hacked or broken WordPress sites?
+
+Yes. I regularly help clients with:
+
+Cleaning hacked WordPress installations
+
+Removing malicious code
+
+Fixing database issues
+
+Recovering broken sites after failed updates
+
+Restoring sites from backups
+
+Hardening sites to prevent future attacks
+
+Because WordPress is widely used, it’s also widely targeted. I’m very familiar with the common failure points and how to resolve them safely.
+
+Do you work with Webflow, Wix, or Squarespace?
+
+Yes. I have experience working with:
+
+Webflow
+
+Wix
+
+Squarespace
+
+This includes:
+
+Building and editing pages
+
+Improving layouts and content structure
+
+Fixing issues
+
+Advising on platform limitations
+
+Managing ongoing updates and content changes
+
+I’m happy to work within an existing platform if a client doesn’t want or need to move to WordPress.
+
+Do you write JavaScript?
+
+Yes. I use JavaScript regularly to add interactivity and functionality to websites.
+
+This includes:
+
+General DOM manipulation
+
+Interactive components
+
+Calculators and custom logic
+
+Timed and scroll-based animations
+
+Working with Node where needed
+
+Vue.js for more structured front-end behaviour
+
+Some experience with React-based setups (including Gatsby)
+
+Do you do animation and motion work?
+
+Yes — animation is a key part of my work and something I particularly enjoy.
+
+I regularly work with:
+
+GSAP (GreenSock)
+
+Swiper
+
+Lottie animations
+
+JSON-based animations (Lottie, Jitter)
+
+Scroll-based and interaction-driven animations
+
+I focus on animation that enhances usability and storytelling, rather than animation purely for decoration.
+
+Can you help with servers, hosting, and technical setup?
+
+Yes. I handle many technical aspects of website hosting and infrastructure, including:
+
+Website migrations
+
+DNS configuration
+
+.htaccess rules
+
+Cloudflare setup and management
+
+Performance tuning
+
+Fixing hosting-related issues
+
+This is especially useful for clients who don’t want to deal with hosting companies or technical jargon themselves.
+
+Do you handle email configuration?
+
+Yes. I can help with technical email setup, including:
+
+DMARC
+
+SPF
+
+DKIM
+
+General email deliverability issues
+
+This is particularly important for contact forms and transactional emails to ensure messages don’t end up in spam folders.
+
+Do you optimise website performance?
+
+Yes. Performance and optimisation are a key part of my work.
+
+This includes:
+
+Caching configuration (e.g. Breeze, WP Fastest Cache)
+
+Cloudflare caching and optimisation
+
+Image optimisation
+
+Reducing unnecessary scripts and bloat
+
+Improving load times and Core Web Vitals where possible
+
+Do you do graphic design as well?
+
+Yes. I handle graphic design work that supports web and digital projects.
+
+This includes:
+
+Image resizing and compression
+
+SVG creation and optimisation
+
+Vector illustration using Adobe Illustrator
+
+Cartoon characters and custom graphics
+
+Motion graphics and titles using After Effects
+
+Simple animated assets using tools like Animaker
+
+I focus mainly on graphics that are used on websites, social media, and digital marketing, rather than large-scale print campaigns.
