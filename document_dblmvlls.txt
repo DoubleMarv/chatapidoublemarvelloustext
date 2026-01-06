@@ -1,42 +1,63 @@
+About Me & Experience
 
-Do you have a preferred platform?
-(Examples: WordPress, Shopify, Webflow, Nuxt, custom development)
+You can drop this straight into your source document.
 
-Will you provide a design or do you need us to create one?
-We can create a custom design based on a few sites that you like or want to use as inspiration. Responsive/mobile-friendly design is standard. Learn more here: Double Marvellous Web Design
+Who are you and what do you do?
 
-Do you do branding?
-Yes, I can set you up with new branding or work with your existing branding.
+I’m a freelance web designer and developer specialising in building modern, high-quality websites for businesses, organisations, and individuals. I focus mainly on websites, with a particular interest in clean design, animation, and creating engaging user experiences that feel alive and intentional rather than static or generic.
 
-2. Content
-Who will provide the website content (text, images, videos)?
-The client provides the content, but I can provide access to stock photography (included in the price) as well as help with SEO-friendly copywriting for your site.
+While I work across a range of platforms and technologies, a large part of my work involves WordPress websites, custom themes, and ongoing site management.
 
-We can create a news/ blog section for your site, and we can help you with or full update it for you every month, or week.
+How long have you been working in web design and development?
 
-We can provide multi-language versions of your site for different territories
+I’ve been working professionally in web design and development since 2012.
 
-I can integrate your site with your CRM so that your forms feed directly
+During that time, I’ve worked both as a freelancer/contractor and as a staff member within digital and creative agencies. This means I understand how projects are handled at an agency level, as well as how to work directly with clients one-on-one.
 
-We can integrate your site with Stripe, Paypal and other common payment gateways - this can depend on the platform or use case, but get in touch at info@doublemarvellous.com and let me know the specifics!
+This mix of experience allows me to bring agency-level thinking and standards to freelance projects, without the overheads or complexity that often come with large teams.
 
-Do you require a Content Management System (CMS)?
+What makes your experience different from someone newer to the industry?
 
-DO you need a domain? If so, we can provide this or help you set it up.
-Will you need ongoing hosting? If so, we can provide this or help you set it up.
+Having worked consistently in the industry since 2012, I’ve seen many trends, tools, and “best practices” come and go. This helps me make practical decisions rather than chasing fads.
 
-Do you need SEO (Search Engine Optimization) setup? If so, we can provide this or help you set it up.
+I’ve:
 
-Do you want to connect Google Analytics or other tracking tools? If so, we can provide this or help you set it up.
+Built and maintained websites over many years
 
+Worked with legacy systems and modern stacks
 
-What is your desired launch date?
+Seen how sites perform long-term, not just at launch
 
-Who is the main point of contact? Email info@doublemarvellous.com and let's set up a meeting!
-How often do you want updates or meetings?
-What is your budget range?
+Fixed and improved sites built by others
 
-Will you need ongoing maintenance and updates?
-Do you want a staging/testing environment?
+Worked under agency deadlines and constraints
 
+This experience helps me avoid common mistakes and build websites that are stable, maintainable, and fit for real-world use.
 
+Do you work alone or as part of a team?
+
+I work primarily as an independent freelancer. However, I have experience working as part of larger teams and collaborating with designers, developers, project managers, and content teams.
+
+If a project requires additional skills (for example, large-scale content creation, branding, or specialised integrations), I can either collaborate with others or advise on the best approach.
+
+For most projects, clients deal directly with me, which keeps communication clear and efficient.
+
+What types of clients do you usually work with?
+
+I work with a wide range of clients, including:
+
+Small and medium-sized businesses
+
+Creative professionals
+
+Organisations and non-profits
+
+Agencies needing freelance support
+
+Clients who need ongoing website management
+
+Some clients come to me for a brand-new website, while others need help fixing, improving, or maintaining an existing one.
+
+Where are you based and who do you work with?
+
+I’m based in Ireland, but I work with clients both locally and internationally. Remote work has been a normal part of my workflow for many years, so location is rarely a limitation. 
