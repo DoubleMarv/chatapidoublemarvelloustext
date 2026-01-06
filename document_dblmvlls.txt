@@ -1,10 +1,9 @@
 About Me & Experience
-
-You can drop this straight into your source document.
-
 Who are you and what do you do?
 
-I’m a freelance web designer and developer specialising in building modern, high-quality websites for businesses, organisations, and individuals. I focus mainly on websites, with a particular interest in clean design, animation, and creating engaging user experiences that feel alive and intentional rather than static or generic.
+I’m a freelance web designer and developer specialising in building modern, high-quality websites for businesses, organisations, and individuals.
+
+My work focuses primarily on websites, with a strong interest in clean design, animation, and creating engaging user experiences that feel intentional rather than static or generic.
 
 While I work across a range of platforms and technologies, a large part of my work involves WordPress websites, custom themes, and ongoing site management.
 
@@ -12,19 +11,19 @@ How long have you been working in web design and development?
 
 I’ve been working professionally in web design and development since 2012.
 
-During that time, I’ve worked both as a freelancer/contractor and as a staff member within digital and creative agencies. This means I understand how projects are handled at an agency level, as well as how to work directly with clients one-on-one.
+During that time, I’ve worked both as a freelancer/contractor and as a staff member within digital and creative agencies. This gives me insight into both agency-level workflows and direct client collaboration.
 
-This mix of experience allows me to bring agency-level thinking and standards to freelance projects, without the overheads or complexity that often come with large teams.
+This mix of experience allows me to bring agency-level standards to freelance projects, without the overheads or complexity that often come with large teams.
 
 What makes your experience different from someone newer to the industry?
 
-Having worked consistently in the industry since 2012, I’ve seen many trends, tools, and “best practices” come and go. This helps me make practical decisions rather than chasing fads.
+Having worked consistently in the industry since 2012, I’ve seen many tools, trends, and “best practices” come and go. This helps me make practical decisions rather than chasing short-lived fads.
 
 I’ve:
 
 Built and maintained websites over many years
 
-Worked with legacy systems and modern stacks
+Worked with both legacy systems and modern stacks
 
 Seen how sites perform long-term, not just at launch
 
@@ -32,17 +31,17 @@ Fixed and improved sites built by others
 
 Worked under agency deadlines and constraints
 
-This experience helps me avoid common mistakes and build websites that are stable, maintainable, and fit for real-world use.
+This experience helps me avoid common mistakes and build websites that are stable, maintainable, and suited to real-world use.
 
 Do you work alone or as part of a team?
 
-I work primarily as an independent freelancer. However, I have experience working as part of larger teams and collaborating with designers, developers, project managers, and content teams.
+I work primarily as an independent freelancer. However, I have extensive experience collaborating with designers, developers, project managers, and content teams.
 
-If a project requires additional skills (for example, large-scale content creation, branding, or specialised integrations), I can either collaborate with others or advise on the best approach.
+If a project requires additional skills (such as branding, large-scale content creation, or specialised integrations), I can collaborate with others or advise on the best approach.
 
 For most projects, clients deal directly with me, which keeps communication clear and efficient.
 
-What types of clients do you usually work with?
+What types of clients do you work with?
 
 I work with a wide range of clients, including:
 
@@ -54,21 +53,20 @@ Organisations and non-profits
 
 Agencies needing freelance support
 
-Clients who need ongoing website management
+Clients requiring ongoing website management
 
 Some clients come to me for a brand-new website, while others need help fixing, improving, or maintaining an existing one.
 
 Where are you based and who do you work with?
 
-I’m based in Ireland, but I work with clients both locally and internationally. Remote work has been a normal part of my workflow for many years, so location is rarely a limitation. 
-
+I’m based in Ireland, but I work with clients both locally and internationally. Remote collaboration has been a normal part of my workflow for many years, so location is rarely a limitation.
 
 Skills, Platforms & Technologies
 What platforms do you work with?
 
-I work across a range of website platforms and tools, depending on what best suits the project. My strongest and most long-standing experience is with WordPress, but I also work with other modern site builders and CMS platforms.
+I work across a range of platforms depending on what best suits the project. My strongest and most long-standing experience is with WordPress.
 
-The main platforms I work with include:
+Platforms I regularly work with include:
 
 WordPress
 
@@ -82,39 +80,37 @@ Some experience with Framer
 
 AI-assisted and prompt-based builders (where appropriate)
 
-I’m happy to advise on whether a platform is suitable for a specific project, or whether an existing site should be improved rather than rebuilt.
+I’m happy to advise whether a platform is suitable for a specific project, or whether an existing site should be improved rather than rebuilt.
 
 How experienced are you with WordPress?
 
-WordPress is one of my core areas of expertise. I’ve been working with WordPress consistently since around 2012, across many different types of projects.
+WordPress is one of my core areas of expertise. I’ve worked with it consistently since around 2012 across many different types of projects.
 
-My WordPress experience includes:
+My experience includes:
 
-Building custom themes from scratch
+Custom theme and block-based theme development
 
-Creating block-based themes using Gutenberg
-
-Advanced Custom Fields (ACF)
+Gutenberg and Advanced Custom Fields (ACF)
 
 Twig-based templating where appropriate
 
 Custom PHP functions, shortcodes, and plugins
 
-Working directly with the WordPress database when required
-
-WordPress Multisite setups
+WordPress Multisite
 
 Multilingual sites using WPML
 
+Database-level fixes and updates
+
 Performance, security, and long-term maintenance
 
-I’m very comfortable working on both new WordPress builds and existing, sometimes messy, legacy sites.
+I’m very comfortable working on both new builds and complex legacy WordPress sites.
 
 Do you use WordPress page builders?
 
-Yes. While I often prefer custom themes for flexibility and performance, I regularly work with popular WordPress builders when they are already in place or when they make sense for a client.
+Yes. While I often prefer custom themes for flexibility and performance, I regularly work with builder-based sites where appropriate.
 
-This includes experience with:
+This includes:
 
 Elementor
 
@@ -122,97 +118,47 @@ Kadence
 
 WPBakery / Visual Composer
 
-Other common builder-based setups
-
-I can:
-
-Build new pages using these tools
-
-Improve or clean up existing layouts
-
-Fix broken builder content
-
-Advise when a builder is becoming a limitation
-
-Can you work with popular WordPress plugins?
-
-Yes. I’ve worked with a wide range of commonly used WordPress plugins, including:
-
-Contact form plugins (such as Contact Form 7 and similar)
-
-Migration and backup tools (e.g. All-in-One WP Migration)
-
-Security plugins (e.g. Wordfence)
-
-Caching and performance plugins
-
-If a plugin is causing issues, slowing a site down, or conflicting with other parts of the site, I can usually diagnose and resolve the problem.
+I can build new pages, clean up existing layouts, fix broken content, and advise when a builder is becoming a limitation.
 
 Do you fix hacked or broken WordPress sites?
 
-Yes. I regularly help clients with:
+Yes. I regularly help with:
 
-Cleaning hacked WordPress installations
+Cleaning hacked installations
 
 Removing malicious code
 
 Fixing database issues
 
-Recovering broken sites after failed updates
+Recovering sites after failed updates
 
-Restoring sites from backups
+Restoring from backups
 
 Hardening sites to prevent future attacks
 
-Because WordPress is widely used, it’s also widely targeted. I’m very familiar with the common failure points and how to resolve them safely.
-
-Do you work with Webflow, Wix, or Squarespace?
-
-Yes. I have experience working with:
-
-Webflow
-
-Wix
-
-Squarespace
-
-This includes:
-
-Building and editing pages
-
-Improving layouts and content structure
-
-Fixing issues
-
-Advising on platform limitations
-
-Managing ongoing updates and content changes
-
-I’m happy to work within an existing platform if a client doesn’t want or need to move to WordPress.
+Because WordPress is widely targeted, I’m very familiar with common failure points and how to resolve them safely.
 
 Do you write JavaScript?
 
-Yes. I use JavaScript regularly to add interactivity and functionality to websites.
+Yes. I regularly use JavaScript to add interactivity and functionality.
 
 This includes:
 
-General DOM manipulation
-
-Interactive components
+DOM manipulation and UI behaviour
 
 Calculators and custom logic
 
 Timed and scroll-based animations
 
-Working with Node where needed
+Node-based workflows where required
 
-Vue.js for more structured front-end behaviour
+Vue.js for structured front-end behaviour
 
 Some experience with React-based setups (including Gatsby)
 
 Do you do animation and motion work?
 
-Yes — animation is a key part of my work and something I particularly enjoy.
+Yes — animation is a key part of my work.
 
 I regularly work with:
 
@@ -220,17 +166,15 @@ GSAP (GreenSock)
 
 Swiper
 
-Lottie animations
+Lottie and JSON-based animations
 
-JSON-based animations (Lottie, Jitter)
+Scroll-triggered and interaction-driven animation
 
-Scroll-based and interaction-driven animations
-
-I focus on animation that enhances usability and storytelling, rather than animation purely for decoration.
+My focus is on animation that enhances usability and storytelling, rather than animation purely for decoration.
 
 Can you help with servers, hosting, and technical setup?
 
-Yes. I handle many technical aspects of website hosting and infrastructure, including:
+Yes. I regularly handle:
 
 Website migrations
 
@@ -238,17 +182,15 @@ DNS configuration
 
 .htaccess rules
 
-Cloudflare setup and management
+Cloudflare setup and optimisation
 
-Performance tuning
+Hosting-related troubleshooting
 
-Fixing hosting-related issues
-
-This is especially useful for clients who don’t want to deal with hosting companies or technical jargon themselves.
+This is especially useful for clients who don’t want to deal with technical infrastructure themselves.
 
 Do you handle email configuration?
 
-Yes. I can help with technical email setup, including:
+Yes. I can assist with:
 
 DMARC
 
@@ -256,29 +198,29 @@ SPF
 
 DKIM
 
-General email deliverability issues
+General deliverability issues
 
-This is particularly important for contact forms and transactional emails to ensure messages don’t end up in spam folders.
+This is particularly important for contact forms and transactional emails.
 
 Do you optimise website performance?
 
-Yes. Performance and optimisation are a key part of my work.
+Yes. Performance optimisation is a key part of my work.
 
 This includes:
 
 Caching configuration (e.g. Breeze, WP Fastest Cache)
 
-Cloudflare caching and optimisation
+Cloudflare optimisation
 
 Image optimisation
 
-Reducing unnecessary scripts and bloat
+Reducing unnecessary scripts
 
 Improving load times and Core Web Vitals where possible
 
 Do you do graphic design as well?
 
-Yes. I handle graphic design work that supports web and digital projects.
+Yes, primarily in support of digital and web projects.
 
 This includes:
 
@@ -286,144 +228,46 @@ Image resizing and compression
 
 SVG creation and optimisation
 
-Vector illustration using Adobe Illustrator
+Vector illustration (Adobe Illustrator)
 
 Cartoon characters and custom graphics
 
-Motion graphics and titles using After Effects
+Motion graphics and titles (After Effects)
 
-Simple animated assets using tools like Animaker
-
-I focus mainly on graphics that are used on websites, social media, and digital marketing, rather than large-scale print campaigns.
+Simple animated assets (Animaker)
 
 How I Work & My Process
 How do projects usually start?
 
-Most projects start with a simple conversation. This can be via email, a contact form, or a call if needed.
+Projects usually begin with a simple conversation via email, form, or call.
 
-At the start, I try to understand:
+I focus on understanding:
 
 What the business does
 
-What the website is meant to achieve
+What the website needs to achieve
 
-Whether the site is new, a redesign, or an improvement
+Whether the site is new or existing
 
-Any technical or platform constraints
+Technical or platform constraints
 
 Budget and timeline expectations
 
-I don’t believe in overcomplicating the early stages — clarity matters more than long documents.
+Clarity early on matters more than long documents.
 
-Do you work with briefs or do you help define the project?
+Do you work with briefs or help define the project?
 
 Both.
 
-Some clients come with a clear brief, designs, or specifications. Others only know that their current website “isn’t working”.
-
-I’m comfortable:
-
-Working from detailed briefs
-
-Helping shape the scope of a project from scratch
-
-Advising on what is actually needed versus what can be skipped
-
-My goal is always to avoid unnecessary work and focus on what delivers value.
-
-What is your typical website process?
-
-While every project is different, most follow a similar structure:
-
-Discovery & Planning
-
-Understanding goals and audience
-
-Reviewing competitors or references
-
-Choosing the right platform and approach
-
-Structure & Content
-
-Page structure and hierarchy
-
-Making sure key information appears early
-
-Clear calls to action throughout the site
-
-Design & Build
-
-Visual design (or working from existing designs)
-
-Development and functionality
-
-Animation and interaction where appropriate
-
-Testing & Refinement
-
-Cross-device testing
-
-Performance checks
-
-Final adjustments and polish
-
-Launch & Handover
-
-Going live
-
-Post-launch support
-
-Optional ongoing maintenance
-
-Not every project includes every step, but this is the general flow.
-
-How involved do clients need to be?
-
-As much or as little as they want.
-
-Some clients prefer to be very hands-on, reviewing everything step by step. Others want to hand things over and only check in at key milestones.
-
-I’m used to both approaches and adapt accordingly.
-
-Do you work with agencies as well as direct clients?
-
-Yes. I’ve worked both:
-
-Directly with clients
-
-As a contractor or freelancer for agencies
-
-Because I’ve been on both sides, I’m comfortable:
-
-Slotting into existing workflows
-
-Working under agency direction
-
-Communicating clearly with designers, project managers, and developers
-
-This background helps keep projects efficient and professional.
-
-How do revisions and feedback work?
-
-Feedback is a normal part of the process.
-
-Depending on the project setup:
-
-Revisions are handled in defined stages, or
-
-Changes are handled more flexibly on smaller projects
-
-I aim to be clear about what’s included upfront, and I don’t nickel-and-dime for reasonable tweaks.
+I’m comfortable working from detailed briefs or helping shape a project from scratch. My goal is always to avoid unnecessary work and focus on what delivers real value.
 
 Do you offer ongoing support after launch?
 
-Yes.
-
-Many clients continue working with me after launch for:
+Yes. Many clients continue working with me for:
 
 Content updates
 
-New pages or features
+New features or pages
 
 Performance improvements
 
@@ -431,146 +275,16 @@ Security updates
 
 General advice and technical help
 
-This can be handled:
+This can be handled ad-hoc or via a monthly arrangement.
 
-On an ad-hoc basis
-
-Via a monthly support or maintenance arrangement
-
-What makes your approach different?
-
-A few key things:
-
-I’ve been doing this consistently since around 2012
-
-I’ve worked both freelance and in agency environments
-
-I understand both design and technical constraints
-
-I’m comfortable fixing existing problems, not just building new sites
-
-I don’t push unnecessary features or trends
-
-My focus is on building websites that work well, are maintainable, and don’t become a burden for the client.
-
-Are you suited to small or large projects?
-
-Both.
-
-I work on:
-
-Small one-page or brochure sites
-
-Medium-sized business websites
-
-Ongoing improvements to large or long-running sites
-
-If something isn’t a good fit, I’ll say so honestly.
-
-Pricing, Budgets & Common Cost Questions
-How do you price your work?
-
-Pricing depends on:
-
-Scope of the project
-
-Platform and technical requirements
-
-Timeline
-
-Whether it’s a new build or working with an existing site
-
-I aim to price work fairly and transparently, without hidden costs.
-
-Do you offer fixed pricing or monthly plans?
-
-I offer both, depending on the project.
-
-Typical options include:
-
-Fixed-price projects for clearly defined work
-
-Monthly plans for ongoing development, support, and maintenance
-
-I’ll always explain what’s included so there are no surprises.
-
-What kind of budget should I expect for a website?
-
-Budgets vary widely, but as a general guideline:
-
-Small sites and simple builds cost less
-
-Custom design, animation, and advanced functionality increase cost
-
-Ongoing support spreads costs over time
-
-I’m happy to discuss realistic options within a given budget and suggest phased approaches if needed.
-
-Do you charge for revisions or changes?
-
-Reasonable revisions are usually included, depending on the agreement.
-
-If a project changes significantly in scope after work has started, I’ll flag that early and discuss options before proceeding.
-
-Is hosting included?
-
-Hosting can be handled in different ways:
-
-I can manage hosting and technical setup
-
-Or work with existing hosting provided by the client
-
-If hosting or maintenance is included, this will be clearly stated upfront.
-
-Are there ongoing costs I should be aware of?
-
-Possible ongoing costs may include:
-
-Hosting
-
-Domain renewal
-
-Maintenance or support plans
-
-Third-party services or plugins
-
-I try to minimise unnecessary recurring costs and explain any that are required.
-
-Can I start small and scale later?
-
-Yes — this is often the best approach.
-
-Many clients:
-
-Start with a core site
-
-Add features, pages, or animation later
-
-Improve SEO and performance over time
-
-I’m very comfortable working in phases.
-
-Do you offer free consultations or quotes?
-
-I’m happy to:
-
-Review a project idea
-
-Look over an existing site
-
-Provide guidance on next steps
-
-If a project isn’t the right fit, I’ll say so honestly.
-
+Pricing, Budgets & Costs
 How do you charge for your work?
 
-Generally, I work in two ways:
+I generally work in two ways:
 
-Fixed-price projects for clearly defined scopes of work
+Fixed-price projects for clearly defined scopes
 
-Hourly billing for ad-hoc tasks, support, fixes, and open-ended work
-
-This allows flexibility depending on the type of work and how well defined the project is.
+Hourly billing for ad-hoc work, support, and open-ended tasks
 
 What is your hourly rate?
 
@@ -578,7 +292,7 @@ As of 5th January 2026, my hourly rate is:
 
 €40 per hour + VAT
 
-This rate typically applies to:
+This typically applies to:
 
 Small updates or fixes
 
@@ -586,30 +300,15 @@ Troubleshooting and repairs
 
 Ongoing support
 
-Consulting or technical advice
+Consulting and technical advice
 
-Work where the scope may evolve over time
+Work where scope may evolve
 
-If a task looks like it would be better suited to a fixed price, I’ll usually suggest that instead.
-
-Do you prefer fixed pricing or hourly work?
-
-For most full website builds or redesigns, fixed pricing works best.
-For ongoing work or one-off tasks, hourly billing is often more practical.
-
-I’m happy to advise which approach makes the most sense before starting.
+If something is better suited to fixed pricing, I’ll usually suggest that instead.
 
 Will I know the cost upfront?
 
-Yes.
-
-Whether the work is:
-
-Fixed-price, or
-
-Hourly
-
-I aim to be clear about expected costs before any work begins. If something changes significantly, I’ll flag it early and discuss options.
+Yes. I aim to be clear about expected costs before work begins. If scope changes significantly, I’ll flag it early and discuss options.
 
 Is VAT included in your prices?
 
@@ -619,4 +318,4 @@ Prices are quoted exclusive of VAT
 
 VAT is added where applicable
 
-This will always be made clear in quotes or invoices.
+This is always made clear in quotes and invoices.
